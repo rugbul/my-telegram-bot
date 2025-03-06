@@ -14,4 +14,4 @@
 
 ### Требования
 - Установленный [Go](https://golang.org/dl/) (версия 1.16 или выше).
-- Токен Telegram-бота (получите у [BotFather](https://t.me/BotFather)).
+- Токен Telegram-бота (получить у [BotFather](https://t.me/BotFather)).
