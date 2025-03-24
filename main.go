@@ -8,7 +8,7 @@ import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
-const telegramBotToken = "7504923807:AAEaVfzH7fV-6eh-SJMnHQJ6rJRM_h1IBf0"
+const telegramBotToken = "ваш токен"
 
 func main() {
 	bot, err := tgbotapi.NewBotAPI(telegramBotToken)
